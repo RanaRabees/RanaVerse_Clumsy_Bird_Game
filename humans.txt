@@ -1,0 +1,13 @@
+/* TEAM */
+
+Developer: RanaRabees
+Site: https://ranarabees.github.io/RanaVerse_Clumsy_Bird_Game/, https://github.com/RanaRabees
+Twitter: @RanaRabees
+Location: Pakistan, Taxila
+
+/* SITE */
+
+Last Update: 2023/30/7
+Standards: HTML5, CSS3
+Components: MelonJS, jQuery
+Software: VIM, Photoshop
